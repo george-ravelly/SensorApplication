@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SensorApplication</string>
+    <string name="prox">prox</string>
+    <string name="giro">giro</string>
+    <string name="luz">luz</string>
+    <string name="accel">accel</string>
+</resources>
